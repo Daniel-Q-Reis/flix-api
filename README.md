@@ -88,6 +88,12 @@ The base URL for all endpoints is `/api/v1/`.
 
 The API will be available at `http://127.0.0.1:8000/`.
 
+## Acknowledgements
+
+This project was developed as part of the PyCodeBR Django REST Framework course. The initial codebase was provided by the instructor and can be found at the [original repository](https://github.com/pycodebr/flix-api).
+
+My goal with this repository is to follow the course, understand the concepts presented, and document my learning process by adding my own features and modifications on top of this solid foundation.
+
 ## Next Steps (Future Enhancements)
 
 - [ ] Containerize the application using Docker and Docker Compose.
